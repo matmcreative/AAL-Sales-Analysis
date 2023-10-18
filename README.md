@@ -1,7 +1,3 @@
-Certainly! Here's a README page for the project "Sales Analysis for AAL":
-
----
-
 # Sales Analysis for AAL
 
 ## Introduction
